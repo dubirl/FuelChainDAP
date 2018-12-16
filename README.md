@@ -9,7 +9,7 @@ Please ensure the following dependencies are installed prior recreating setup
 
 DEV Environment Background. 
 
-This was tested on clean VMWare Machine running Windows 10 Pro.
+Fuelchain POC was developed and tested on clean install of Windows 10 Professional built from an image OS Install CD using VMWare Player.
 Please ensure Windows version is @ least 10.0.17134.471
 Summarised steps to replicate Fuelchain DAPP enviromment  
 
