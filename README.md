@@ -35,11 +35,11 @@ Truffle.cmd migrate
 Both command should return logs to indicate the smart contracts compiled and migrated to Ganache
 Your Transction Count in Ganache should be 4
 
-Get the mnenonic seed phrase from Ganache and copy it to a text file
+Get the mnenonic seed phrase from Ganache (12 words) and copy it to a text file
 Open Google Chrome and locate the metamask icon - look for the option import seed from phrase
 Copy and paste the mnenoic phrase and set a new password (NOTE PASSWORD for this)
-If MetaMask status is Main Network change to custom and enter http://127.0.0.1:7545
-Ensure that the private network appears and check that the ID of the account of metamask matches account
+If MetaMask status is Main Network change to custom and enter CUSTOM URL  http://127.0.0.1:7545
+Ensure that the private network appears and check that the ID of the account within metamask matches account
 0 in Ganache. 
 
 From the command prompt in the \fuelchainDap folder run the following command
