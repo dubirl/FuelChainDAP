@@ -1,6 +1,6 @@
 # FuelChainDAP
 
-Please ensure the following dependencies are install
+Please ensure the following dependencies are installed prior recreating setup
 1. GIT 
 2. Node js
 3. Ganache
@@ -15,18 +15,18 @@ Summarised steps to replicate Fuelchain DAPP enviromment
 
 Check all the the above pre requsites are in stalled 
 
-Pull down the files using one of the following options
+Pull down the files using one of the following 2 options
 
-Copy the zip file down or use the following GIT command
+1. Copy the zip file down and extract into a folder on the root of C:\
 
-To Run
+2. USE the following GIT command
 
 `git clone https://github.com/dubirl/FuelChainDAP.git`
 
-The will pull the contents into a folder under the users\profilename 
+The will pull the contents into a folder called FuelchainDap under the users\profilename\ 
 
 
-Make sure there are not *.json files in the fuelchaindap\build\contracts prior to initialising FuelChain DAPP 
+Please note: Make sure there are not *.json files in the fuelchaindap\build\contracts prior to initialising FuelChain DAPP 
 
 Start up Ganache and ensure that is it running.
 From a dos prompt navigate to the \fuelchainDap folder and run the following commands
