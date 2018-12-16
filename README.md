@@ -7,6 +7,8 @@ Please ensure the following dependencies are install
 4. Truffle
 5. MetaMask 
 
+DEV Environment Background. 
+
 This was tested on clean VMWare Machine running Windows 10 Pro.
 Please ensure Windows version is @ least 10.0.17134.471
 Summarised steps to replicate Fuelchain DAPP enviromment  
@@ -49,16 +51,3 @@ MetaMask is now synced with the webpage.
 You can interact with the contract by selecing an order and clicking the "confirm order"
 MetaMask will appear to confirm the transaction - click confirm and the tranasction will be sent to the smart contract address.
 You will tell if the transaction has been sucessful as the count in Ganache will have increased by one. 
-
-
-
-
-
-
-
-
-
-
-`npm run dev`
-
-
